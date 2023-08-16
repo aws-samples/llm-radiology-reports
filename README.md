@@ -1,4 +1,4 @@
-# Generating Radiology Report Impression with Large Language Model on AWS Jumpstart
+# Generating Radiology Report Impression using Gen AI with Large Language Model on AWS 
 
 Our primary focus is on showcasing the effective strategy of fine-tuning open-source pretrained large language models (LLMs) for radiology report summarization, utilizing AWS services. LLMs have consistently displayed remarkable capabilities in natural language understanding and generation, making them versatile foundation models that can be adapted to various domains and tasks.
 
