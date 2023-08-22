@@ -2,7 +2,7 @@
 
 Our primary focus is on showcasing the effective strategy of fine-tuning open-source pretrained large language models (LLMs) for radiology report summarization, utilizing AWS services. LLMs have consistently displayed remarkable capabilities in natural language understanding and generation, making them versatile foundation models that can be adapted to various domains and tasks.
 
-In our approach, we fine-tune the Flan-T5 XL model on radiology findings of a typical Chest X-Ray report. This fine-tuning is conducted for the summarization task using a dataset of 91,544 free-text radiology reports obtained from the MIMIC-CXR dataset.
+In our approach, we fine-tune the flan-T5-xl model on radiology findings of a typical Chest X-Ray report. This fine-tuning is conducted for the summarization task using a dataset of 91,544 free-text radiology reports obtained from the MIMIC-CXR dataset.
 
 ## Obtaining MIMIC CXR Data for Training
 
